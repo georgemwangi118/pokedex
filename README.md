@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+font-family: 'Press Start 2P', cursive;
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
